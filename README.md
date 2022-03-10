@@ -1,6 +1,7 @@
 # Running the app
 ```shell
 npm install
+npx hardhat test
 npm run dev
 ```
 
